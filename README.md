@@ -5,7 +5,7 @@
 
 ### <p align="center"> I'm a Software Development Engineer in Test, and also a Learner!!! </p>
 
-- 👯 I’m looking to collaborate on <b> Cypress Automation projects </b>
+- 👯 I’m looking to collaborate on <b> Automation projects </b>
 - 💬 Ask me about <b>DC Movies and Comics</b>
 - 📫 How to reach me: <b>Connect to me via Email [Arghajit Singha](mailto:arghajitsingha47@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)</b>
 
