@@ -575,6 +575,23 @@ img {
   }
 }
 
+.back-button {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #707070;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  margin-top: 20px;
+}
+
+.back-button:hover {
+  background-color: #0b0a0a;
+}
+
 
 /* Classes modified for large screen size */
 @media screen and (min-width: 968px){
