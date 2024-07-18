@@ -13,6 +13,10 @@
 
 <a href="https://arghajit47.github.io/Arghajit47/">Arghajit47 Portfolio</a>
 
+## Here's personal vCard
+
+<a href="https://arghajit47.github.io/VCard-Portfolio-Arghajit/">Arghajit Singha vCard</a>
+
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/arghajit-singha-1646341bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
