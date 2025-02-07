@@ -23,10 +23,11 @@
 
 ---
 
-### **Showcasing My Work:**  
+### **Showcasing My Work Experience 👨🏻‍💻 :**  
 
-📂 **Portfolio:** [**Check It Out Here**](https://arghajit47.github.io/Arghajit47/)  
-💳 **vCard:** [**View My vCard**](https://arghajit47.github.io/VCard-Portfolio-Arghajit/)  
+📑 **Resume:** [**Check It Out Here**](https://arghajit47.github.io/Arghajit47/)  
+📂 **Portfolio:** [**Click To view**](https://arghajit47.github.io/portfolio-macOS/)  
+💳 **vCard:** [**View My vCard**](https://arghajit47.github.io/VCard-Portfolio-Arghajit/)   
 
 ---
 
@@ -37,14 +38,19 @@
 <img src="https://img.icons8.com/color/48/000000/typescript--v1.png" alt="TypeScript" title="TypeScript"/>
 <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height= "45px" width="45px" alt="Java" title="Java">  
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>  
-<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" title="Selenium"/>  
-<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>  
+<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" title="Selenium"/>   
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>  
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>  
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>  
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Dark.svg" height= "45px" width="45px" alt="Cypress" title="Cypress">
-<img src="https://private-user-images.githubusercontent.com/53892427/320370193-2800c81b-12ef-4eeb-a1be-de6f81013ced.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU3NjA2NDYsIm5iZiI6MTczNTc2MDM0NiwicGF0aCI6Ii81Mzg5MjQyNy8zMjAzNzAxOTMtMjgwMGM4MWItMTJlZi00ZWViLWExYmUtZGU2ZjgxMDEzY2VkLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAxVDE5MzkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViNDI4OGY4MjhkOGEwZWUwMzYwMTA1Y2I5MjU1NDZiYjJiOTRlNTA4ZDhjNTU0MDM3NmMwOGI5OTA3MTFmYTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iV7CjkROvtHUmR-k7bkOMXFfyIwUTqPNRkrPV_feJDk" height= "45px" width="45px" alt="Playwright" title="Playwright"/>    
-<img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" title="JIRA"/>  
+<img src="https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//cypress-svgrepo-com.svg" height= "48px" width="48px" alt="Cypress" title="Cypress">
+<img src="https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//playwright-seeklogo.svg" height= "48px" width="48px" alt="Playwright" title="Playwright"/>    
+<img src="https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//jira-svgrepo-com.svg" height= "48px" width="48px" alt="JIRA" title="JIRA"/>
+<img src='https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//light-node-svgrepo-com.svg' height="48px" width="48px" alt="nodeJS" title="nodeJS"/>
+<img src='https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//client-svgrepo-com.svg' height="48px" width="48px" alt="performance" title="performance"/>
+<img src='https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//pgsql-svgrepo-com.svg' height="48px" width="48px" alt="postgresQL" title="postgresQL"/>  
+<img src='https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//git-svgrepo-com.svg' height="48px" width="48px" alt="git" title="git"/>  
+<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>   
+<img src='https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//gitlab-svgrepo-com.svg' height="48px" width="48px" alt="gitLab" title="gitLab"/>  
 </p>  
 
 ---
