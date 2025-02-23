@@ -1,4 +1,4 @@
-# <p align="center"> Introducing **Arghajit Singha** <img height="50" width="50" align="center" src="https://media.giphy.com/media/aAbax5anloMNk6TSP9/giphy.gif"></p>  
+# <p align="center"> Introducing **Arghajit Singha** <img height="150" width="150" align="center" src="https://media.giphy.com/media/aAbax5anloMNk6TSP9/giphy.gif"></p>  
 
 ---
 
